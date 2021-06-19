@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @Bl1nderGreece
-- 👀 I’m interested in Developement
-- 🌱 I’m currently learning Cobra Language
-- 💞️ I’m looking to collaborate Partners
+- Καλησπερα Προγραμματιστες!
+- Ονοματεπωνυμο: Δημητρης Θ.
+- Δουλεια: Τεχνικος Εφαρμογων Πληροφορικης
+- Σπουδασμα/αλλη δουλεια: Στρατιωτικη Σχολη Εβελπιδων(Μη διευκρινισμένο)
+- Ηλικια: 20 χρονων
+- Ειδικοτητα: Game Developement
+- Εδικοτητα Στρατου: Οπλιτης Μαχητης
+- Ασχολια 1: Online Game
+- Ασχολια 2: Γυμναστικη
+- Ασχολια 3: Ιππασια
+- Discord Name: Dimitris Th.#4144
+- Skype Name: Dimitris Th.
+- Paypal Email: dimitris.th@outlook.com
 
 <!---
-Bl1nderGreece/Bl1nderGreece is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dimitris Th.#4144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
