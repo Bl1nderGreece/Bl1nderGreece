@@ -8,7 +8,7 @@
 - Ασχολια 1: Online Game
 - Ασχολια 2: Γυμναστικη
 - Ασχολια 3: Ιππασια
-- Discord Name: Dimitris Th.#9191
+- Discord Name: Mister Deks#8822
 - Skype Name: Dimitris Th.
 - Paypal Email: dimitris.th@outlook.com
 
