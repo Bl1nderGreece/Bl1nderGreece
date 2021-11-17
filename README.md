@@ -11,7 +11,7 @@
 - Paypal Email: dimitris.th@outlook.com
 - Bysiness Email: dimitris.th@outlook.com
 - My Call Number: 6943175311
-- REGION: GREECE
+- REGION: GREECE / RHODES
 
 <!---
 Dimitris Th.#4144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
